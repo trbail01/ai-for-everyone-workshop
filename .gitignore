@@ -1,0 +1,47 @@
+# ------------------------------
+# AI Workshop Project .gitignore
+# ------------------------------
+
+# Word / Office temporary files
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+~$*.pptx
+~$*.ppt
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux system files
+*~
+
+# Python/Jupyter (if you add demos later)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# VS Code / JetBrains / IDE settings
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+
