@@ -1,9 +1,9 @@
 ---
 
-## Showing AI Mistakes (Fun Demo Ideas)
+## Showing AI Mistakes
 
 AI can sound confident — but still be wrong!  
-Here are some quick, classroom-friendly examples you can use to show common AI errors during a live demo.
+Here are some quick examples you can use try to see if AI makes any mistakes
 
 ---
 
