@@ -13,8 +13,8 @@ It is designed for libraries, colleges, community groups, and organizations who 
 ---
 
 ## How to Use
-1. Browse the [`dist/`](dist/README.md) folder if you just need ready-to-use handouts.  
-2. Use the [`source/`](source/README.md) folder if you want to edit lesson plans in Markdown.  
+1. Use the [`source/`](source/README.md) folder for the most up-to-date content.  
+2. Browse the [`dist/`](dist/README.md) folder if you just need ready-to-use handouts.
 3. Use the [`slides/`](slides/) folder for the presentation deck.  
 4. Use [Pandoc](https://pandoc.org) to convert `.md` → `.docx` or `.pdf`. *(Advanced users only)* 
 
