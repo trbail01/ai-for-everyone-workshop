@@ -118,7 +118,8 @@ By the end of this session, participants will be able to:
 - **Informal:** Observe engagement during group discussions and demos.  
 - **End-of-session:** Quick 1-minute written reflection:  
   - *One thing you learned today*  
-  - *One way you plan to try AI responsibly*  
+  - *One way you plan to try AI responsibly*
+  - [Feedback From Workshop (Survey)](https://www.menti.com/al158af1piyw)
 
 ---
 
