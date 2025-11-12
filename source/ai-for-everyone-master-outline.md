@@ -1,6 +1,6 @@
 # AI for Everyone – Lesson Plan & Workshop Outline
 
-**Length:** 3 Hours  
+**Length:** 2 Hours  
 **Audience:** General public (non-technical background)  
 **Format:** Interactive presentation + live demos + group activities  
 
