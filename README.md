@@ -6,7 +6,7 @@ It is designed for libraries, colleges, community groups, and organizations who 
 ---
 
 ## What's Inside
-- **source/** → Markdown source files (lesson plan, outlines, cheat sheets).  
+- **source/** → Markdown source files for all workshop materials, including the lesson plan, outlines, cheat sheets, demo guides, and resource lists.
 - **dist/** → Exported PDFs and DOCX handouts, ready to share.  
 - **slides/** → Slide deck(s) used during the workshop.  
 
