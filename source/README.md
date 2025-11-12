@@ -2,7 +2,7 @@
 
 This folder contains the **Markdown source files** for the *AI for Everyone* workshop.  
 These are the editable versions intended for version control and ongoing updates.  
-Each file can be exported to Word or PDF using [Pandoc](https://pandoc.org).
+Each file can be exported to Word or PDF using [Pandoc](https://pandoc.org) -> *(advanced users only*).
 
 ---
 
@@ -12,9 +12,8 @@ Each file can be exported to Word or PDF using [Pandoc](https://pandoc.org).
   The complete lesson plan and workshop outline for the *AI for Everyone* community session.  
   Includes learning objectives, timed agenda, activities, instructor notes, and participant resources for a two-hour general public workshop.
 
-- [`slides-outline.md`](slides-outline.md) →  
-  A structured overview of slide content used during the presentation.  
-  Helpful for building or revising PowerPoint or Google Slides decks.
+- [`powerpoint slides`](/slides/ai-for-everyone.marp.pptx) →  
+  Presentation slides used during the presentation.  
 
 ---
 
@@ -46,14 +45,12 @@ Each file can be exported to Word or PDF using [Pandoc](https://pandoc.org).
 
 ---
 
-## 🛠️ Exporting Files
-
+## 🛠️ Exporting Files - intended for advacned use only
 Use [Pandoc](https://pandoc.org) to convert Markdown files into shareable Word or PDF formats:
 
 ```bash
 pandoc filename.md -o filename.pdf
+```
 
----
-
-*This document is part of the AI for Everyone Workshop materials.*  
-*Created for educational use under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).*
+ *This document is part of the AI for Everyone Workshop materials.*  
+ *Created for educational use under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).*
