@@ -15,14 +15,16 @@ These notes document how to rebuild or update the *AI for Everyone* workshop sli
    ```bash
    brew install node
    ```
+   Once installed (windows or mac), run:
+   ```npm install -g @marp-team/marp-cli```
 
 2. Navigate to the project root and export slides:
    ```bash
-   npx @marp-team/marp-cli slides/ai-for-everyone.marp.md --pdf
+   npx @marp-team/marp-cli slides/ai-for-everyone.marp.md --pdf --allow-local-files
    ```
    or
    ```bash
-   npx @marp-team/marp-cli slides/ai-for-everyone.marp.md --pptx
+   npx @marp-team/marp-cli slides/ai-for-everyone.marp.md --pptx --allow-local-files
    ```
 
    This converts the Markdown deck into a **PDF** or **PowerPoint** file located in the `slides/` directory.
