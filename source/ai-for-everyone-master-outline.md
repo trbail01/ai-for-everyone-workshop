@@ -47,8 +47,8 @@ By the end of this session, participants will be able to:
 - Introduce yourself and explain the purpose of the workshop.  
 - **Poll/Discussion:**  
   - Who has used ChatGPT, Copilot, Gemini, or another AI tool?  
-  - What’s one word that comes to mind when you hear “AI”? [Link to Wordcloud](https://www.menti.com/al6q875mxign)
-- Outline the session agenda and goals.  
+  - [What’s one word that comes to mind when you hear “AI”?](https://www.menti.com/al6q875mxign)
+- Outline the session agenda and goals. 
 
 ---
 

@@ -51,4 +51,5 @@ Improved prompts provide **role, context, task, format, and tone**.
 - Use AI as a helper, not a replacement for your judgment.  
 
 ---
-
+*Part of the AI for Everyone Workshop materials.*  
+*Licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).*
