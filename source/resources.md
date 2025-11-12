@@ -88,6 +88,9 @@ Each includes a quick description and whether an account or sign-in is required.
 | [YouTube: Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) | Engaging short videos on the latest AI research |
 | [AI Literacy Framework (MIT Media Lab)](https://aieducation.mit.edu/) | Resources for teaching and understanding AI responsibly |
 
+## Random Resources
+https://www.whichfaceisreal.com/index.php
+
 ---
 
 ## ⚠️ Quick Reminders
